@@ -1,2 +1,7 @@
-# wildfire-tracker
-Build a React app to track wildfire worldwide using NASA Open API and display on Google Maps API.
+# Nasa Wildfire Tracker
+Learning how to use NASA API and Google Maps API using React.
+
+### Packages used
+google-map-react 
+@iconify/react 
+@iconify/icons-mdi
